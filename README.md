@@ -1,2 +1,2 @@
-# trial_error
-testingtesting123
+# Playing eith some data
+Trying to create visulizations
