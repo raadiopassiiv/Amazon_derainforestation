@@ -1,2 +1,2 @@
-# Playing eith some data
+# Playing with some data
 Trying to create visulizations
